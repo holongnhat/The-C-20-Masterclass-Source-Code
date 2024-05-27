@@ -1,3 +1,4 @@
+// Có các đặc trưng first_name, last_name kế thừa từ lớp Person !
 #ifndef PLAYER_H
 #define PLAYER_H
 
