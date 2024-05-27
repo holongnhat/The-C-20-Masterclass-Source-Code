@@ -6,7 +6,7 @@
 
 class Person
 {
-    friend std::ostream& operator<<(std::ostream& out, const Person& person);
+    friend std::ostream& operator<<(std::ostream& out, const Person& person); //Inheritance Character ! Having in 4 file: person.h & .cpp; player.h & .cpp !
 public:
     Person();
     Person(std::string& first_name_param, std::string& last_name_param);
