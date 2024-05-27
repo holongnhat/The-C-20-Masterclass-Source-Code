@@ -1,3 +1,4 @@
+// Tất cả các tính chất trong Player được thừa hưởng từ Person 
 #ifndef PERSON_H
 #define PERSON_H
 
