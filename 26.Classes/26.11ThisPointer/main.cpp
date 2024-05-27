@@ -1,6 +1,7 @@
 #include <iostream>
 
-
+// reference use '.' to access !
+// pointer use '->' to access !
 class Dog{
     public : 
         Dog() = default;
